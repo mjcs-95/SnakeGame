@@ -1,6 +1,8 @@
 # SnakeGame
 The classic Snake, done in Java.
 
+Coding this I learnt to use keybindings in Java instead of keylisteners
+
 # Controls
 The code use the arrow keys of the keyboard to change direction.
 

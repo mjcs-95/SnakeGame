@@ -3,6 +3,10 @@ The classic Snake, done in Java.
 
 Coding this I learnt to use keybindings in Java instead of keylisteners
 
+The class SnakeGameRules have all the logic of the game
+
+The class SnakeGameApp have all the GUI and the structure of the game in the function play().
+
 # Controls
 The code use the arrow keys of the keyboard to change direction.
 

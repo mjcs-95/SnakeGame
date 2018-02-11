@@ -6,6 +6,7 @@ Coding this I learnt to use keybindings in Java instead of keylisteners
 The class SnakeGameRules have all the logic of the game
 
 The class SnakeGameApp have all the GUI, the key binding and the structure of the game in the function play().
+![Screenshot](Snake.png)
 
 # Controls
 The code use the arrow keys of the keyboard to change direction.
